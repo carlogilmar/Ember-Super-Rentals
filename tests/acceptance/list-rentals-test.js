@@ -16,8 +16,11 @@ module('Acceptance | list rentals', function(hooks) {
 		assert.equal(currentURL(), '/about', 'should navigate to about');
 	});
 
- //test('should link to contact information.', async function (assert) {
-  //});
+  test('Test 3: should link to contact information.', async function (assert) {
+		await visit('/');
+		await click(".menu-contact");
+		assert.equal(currentURL(), '/contact', 'should navigate to contact');
+  });
 
   //test('should list available rentals.', async function (assert) {
   //});

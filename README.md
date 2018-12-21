@@ -10,7 +10,7 @@ This the project follow the Ember Super Rentals Tutorial
 2. Comments about this content
 3. Visual Explains
 
-##### 1. CDD Commit Driven Development
+### 1. CDD Commit Driven Development
 
 I love use git form improve my learning experience. For this, I follow a simple rule for build this project using a version control system: make significant commits.
 
@@ -32,7 +32,7 @@ So every commit made here have the step at the begginig of the commit sentence (
 
 I decided use this git learning workflow for create a simple timeline, and when I decide understand an specific step I only should make a **git show** to the commit which contains the step.
 
-##### 2. Comments about this content
+### 2. Comments about this content
 
 - The test are useful but in this case you have to know how it works before, because the testing tools have their own syntax and if you don't know nothing about it will be difficult to understand. It's add more complex, because you will have to learn Ember and how to test it.
 
@@ -42,6 +42,8 @@ I decided use this git learning workflow for create a simple timeline, and when 
 
 - In genera I see this tutorial for intermediate js developers, not for begginers.
 
-##### 3. Visual Explains
+### 3. Visual Explains
 
-In progress.
+Introduction:
+
+![][/visual_tools/introduction.png]

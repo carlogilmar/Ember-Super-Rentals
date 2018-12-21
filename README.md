@@ -47,3 +47,7 @@ I decided use this git learning workflow for create a simple timeline, and when 
 Introduction:
 
 ![](https://raw.githubusercontent.com/carlogilmar/Ember-Super-Rentals/master/visual_tools/introduction.png)
+
+Ember Concepts in this tutorial:
+
+![](/visual_tools/concepts.pn)

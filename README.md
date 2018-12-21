@@ -46,4 +46,4 @@ I decided use this git learning workflow for create a simple timeline, and when 
 
 Introduction:
 
-![][https://raw.githubusercontent.com/carlogilmar/Ember-Super-Rentals/master/visual_tools/introduction.png]
+![](https://raw.githubusercontent.com/carlogilmar/Ember-Super-Rentals/master/visual_tools/introduction.png)

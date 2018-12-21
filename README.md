@@ -50,4 +50,4 @@ Introduction:
 
 Ember Concepts in this tutorial:
 
-![](/visual_tools/concepts.pn)
+![](/visual_tools/concepts.png)

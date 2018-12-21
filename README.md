@@ -1,57 +1,47 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This the project follow the Ember Super Rentals Tutorial
 
-## Prerequisites
+[Super Rentals](https://guides.emberjs.com/release/tutorial/ember-cli/)
 
-You will need the following things properly installed on your computer.
+### Content
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+1. CDD Commit Driven Development
+2. Comments about this content
+3. Visual Explains
 
-## Installation
+##### 1. CDD Commit Driven Development
 
-* `git clone <repository-url>` this repository
-* `cd super-rentals`
-* `npm install`
+I love use git form improve my learning experience. For this, I follow a simple rule for build this project using a version control system: make significant commits.
 
-## Running / Development
+So I categorized the content in **Super Rentals tutorial** in 11 steps:
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+1. Creating an Ember App
+2. Planning
+3. Routes and templates
+4. Model Hook
+5. Addons
+6. Simple Component
+7. Handlebars Helper
+8. Ember Data
+9. Complex Componento
+10. Services
+11. Nested Routes
 
-### Code Generators
+So every commit made here have the step at the begginig of the commit sentence ( 2/Planning, 5/Addons, 10/Services ) and then I described the particular step: adding a simple component, adding an integration test, etc.
 
-Make use of the many generators for code, try `ember help generate` for more details
+I decided use this git learning workflow for create a simple timeline, and when I decide understand an specific step I only should make a **git show** to the commit which contains the step.
 
-### Running Tests
+##### 2. Comments about this content
 
-* `ember test`
-* `ember test --server`
+- The test are useful but in this case you have to know how it works before, because the testing tools have their own syntax and if you don't know nothing about it will be difficult to understand. It's add more complex, because you will have to learn Ember and how to test it.
 
-### Linting
+- There are inconsistencies in some contents and titles, for example in "Installing Addons" the chapter is about how to install some addons, but the second part is about Ember Mirage", maybe here we have make some differences between installing an addon and then use Ember Mirage. The same for "Building a complex component" because if you are a beginner you will be waiting for know how to build a complex component, but instead of make only this you will read about how to make a component and a controller. Maybe this could be better if we modify the titles, or make more steps for show every Ember concept.
 
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
+- I think that if you didn't know a previous js framework, learn ember will be very difficult (this was my case). Because it's complex understand how some part of ember interact, this is the case of the routes, components, controllers, and services. In this case is difficult to know why a controller isn't the same as a component, or why a componenc could be used in othe component. I know that this is very important information, but I think that this could be explain with more detail and more focus.
 
-### Building
+- In genera I see this tutorial for intermediate js developers, not for begginers.
 
-* `ember build` (development)
-* `ember build --environment production` (production)
+##### 3. Visual Explains
 
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+In progress.
